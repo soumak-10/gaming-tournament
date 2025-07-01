@@ -28,7 +28,7 @@ nav {
 }
 
 nav .logo {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   color: #ff0066;
   font-weight: bold;
 }
@@ -36,6 +36,8 @@ nav .logo {
 nav ul {
   list-style: none;
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 nav ul li {
